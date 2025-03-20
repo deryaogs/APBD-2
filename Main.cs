@@ -180,7 +180,7 @@ class Program
 {
     static void Main()
     {
-        string filePath = "/Users/deryaogus/Desktop/APBD-HW-2/APBD-HW-2/input.txt";
+        string filePath = "/Users/deryaogus/Desktop/Misti-se116/APBD-2/input.txt";
         try
         {
             DeviceManager manager = new DeviceManager(filePath);
